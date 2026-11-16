@@ -1,4 +1,4 @@
-<img src="assets/profile/hero-canvas.svg" width="100%" alt="A design canvas. Josie's cursor drags out a frame and types her name: Josie Zhang, designer, not an engineer, 12 years in tools and 0 to 1, ex-ByteDance and Alibaba, UX to AX, design lead at Cutto, Montréal. An agent's cursor drops in three agent skills she built: say-less, superstar-influencer, max-ctr.">
+<img src="assets/profile/hero-canvas-v2.svg" width="100%" alt="A design canvas. Josie's cursor drags out a frame and types her name: Josie Zhang, designer, not an engineer, 12 years in tools and 0 to 1, ex-ByteDance and Alibaba, UX to AX, design lead at Cutto, Montréal. An agent's cursor drops in three agent skills she built: say-less, superstar-influencer, max-ctr.">
 
 <p align="center"><a href="https://cutto.ai">cutto.ai</a> &nbsp;·&nbsp; <a href="https://x.com/josie_zhangruo">@josie_zhangruo</a> &nbsp;·&nbsp; Open to AI product design and design leadership roles</p>
 
