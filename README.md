@@ -1,53 +1,9 @@
-<img src="assets/banner.svg" alt="Josie Zhang · Design lead. Building in AI." width="100%" />
+<img src="assets/profile/hero-canvas.svg" width="100%" alt="A design canvas. Josie's cursor drags out a frame and types her name: Josie Zhang, designer, not an engineer, 12 years in tools and 0 to 1, ex-ByteDance and Alibaba, UX to AX, design lead at Cutto, Montréal. Claude's cursor drops in three Claude skills she built: say-less, superstar-influencer, max-ctr.">
 
-I'm a design lead with **12 years in UX**, now focused on **AX: the AI experience**.
-Tools, design systems and 0→1 products across TikTok, CapCut, Xiaomi and Amap.
-Designer, not an engineer — I file the bugs I hit.
+<p align="center"><a href="https://cutto.ai">cutto.ai</a> &nbsp;·&nbsp; <a href="https://x.com/josie_zhangruo">@josie_zhangruo</a> &nbsp;·&nbsp; Open to AI product design and design leadership roles</p>
 
-### 🎬 Now · Cutto
+<p align="center"><a href="https://cutto.ai"><img src="assets/profile/tile-cutto.svg" width="423" alt="Cutto, an AI video storyboard tool built 0 to 1. Josie is design lead."></a><img src="assets/profile/tile-capcut.svg" width="423" alt="CapCut web image editor. Visual design lead: icon system and motion."><img src="assets/profile/tile-tiktok.svg" width="423" alt="TikTok Creator Center, a clearer path for creators. Visual design lead: architecture and standards."><img src="assets/profile/tile-design-system.svg" width="423" alt="Design system: foundations, navigation, icons. System owner and visual lead."></p>
 
-An AI video storyboard tool, built 0 → 1. I lead design and run Cutto's X, Instagram and YouTube.
+<p align="center"><sub>Claude skills I built</sub></p>
 
-> How should an AI tool talk about pacing? Put the note beside the shots it is about, make it specific, and leave the cut to the creator.
-
-### Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="400" src="assets/cutto.gif" alt="Cutto storyboard: a playhead sweeps across the shots and steps through the scenes, then shows Clip Genie, the concept Cutto grew from" />
-      <br /><b>Cutto</b> · AI video storyboard
-      <br /><sub>Design Lead · 0 → 1</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img width="400" src="assets/capcut.gif" alt="CapCut web image editor navigation motion" />
-      <br /><b>CapCut</b> · Web image editor
-      <br /><sub>Visual Design Lead · icon system, motion</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="400" src="assets/douyin.jpg" alt="TikTok Creator Center on a phone, with work traffic trend charts" />
-      <br /><b>TikTok Creator Center</b> · A clearer path for creators
-      <br /><sub>Visual Design Lead · architecture, standards</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img width="400" src="assets/design-system.jpg" alt="Design system: navigation icon grid in full-color and locked states" />
-      <br /><b>Design System</b> · Consistency, built into the details
-      <br /><sub>Design System Owner &amp; Visual Lead · foundations, navigation, icons</sub>
-    </td>
-  </tr>
-</table>
-
-### 🧰 Claude skills I built
-
-| Skill | What it does |
-| --- | --- |
-| [**say-less**](https://github.com/josiezhangruo/say-less) | Translates engineering jargon into design implications. For designers, in any language. |
-| [**superstar-influencer**](https://github.com/josiezhangruo/superstar-influencer) | One post from idea to review: structure, cover, multi-platform package, data loop. |
-| [**max-ctr**](https://github.com/josiezhangruo/max-ctr) | A reusable system for high-CTR video and social covers. |
-
-### Say hi
-
-[![X](https://img.shields.io/badge/X-@josie__zhangruo-000?style=flat-square&logo=x)](https://x.com/josie_zhangruo)
-&nbsp;Open to AI product design and design leadership roles.
+<p align="center"><a href="https://github.com/josiezhangruo/say-less"><img src="assets/profile/tile-say-less.svg" width="282" alt="say-less, a Claude skill that translates engineering jargon into design implications."></a><a href="https://github.com/josiezhangruo/superstar-influencer"><img src="assets/profile/tile-superstar-influencer.svg" width="282" alt="superstar-influencer, a Claude skill that takes one post from idea to cover, publish and data review."></a><a href="https://github.com/josiezhangruo/max-ctr"><img src="assets/profile/tile-max-ctr.svg" width="282" alt="max-ctr, a reusable system for high-CTR video and social covers."></a></p>
